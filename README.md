@@ -2,7 +2,7 @@
 
 # GitHub
 
-This is a popular website for hosting and sharing  _Git_ repositories remotely. _(more on Git later in the course)_.
+This is a popular website for hosting and sharing  _Git_ repositories remotely.
 GitHub is used with various developers as means to colaborate remotely. In this course you will learn the basic of GitHub.
 
 **Objectives**
