@@ -3,7 +3,8 @@
 # GitHub
 
 This is a popular website for hosting and sharing  _Git_ repositories remotely.
-GitHub is used with various developers as means to collaborate remotely. Briefly you will learn the basics of GitHub.
+GitHub is used with various developers as means to collaborate remotely. 
+Briefly you will learn the basics of GitHub.
 
 **Objectives**
 1. Inroduction to Repositories, branches , Pull requests and Forking
@@ -14,7 +15,8 @@ GitHub is used with various developers as means to collaborate remotely. Briefly
 
 Create a GitHub account [Join GitHub](https://github.com/join)
 
-A GitHub account is made up of several key parts that help users manage and collaborate on projects. Here are the main parts:
+A GitHub account is made up of several key parts that help users manage and collaborate on projects. 
+Here are the main parts:
 
 **1. Profile**
 
