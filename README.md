@@ -59,7 +59,7 @@ by different people in an organisation (collaboration). More on repositories can
  *  Choose you a license (optional)- This tells others what they can and can't do with your code
  *  Click on ``Create repository``
 
-   _There you have it you very own first repo_ **GOOD JOB!!** :+1:
+   _Your first repo_ **CONGRATULATIONS!!** :+1:
 
 
 
@@ -78,7 +78,7 @@ by different people in an organisation (collaboration). More on repositories can
    3. Enter the name you branch _My first-branch_
    4. Click **Create branch** This will automatically swith to the new branch you have created,the new branch name will also be reflected.
 
-**You successfully created a branch!!!** 🎉
+**Your First Branch, CONGRATULATIONS!!!** 🎉
 
 
 ### Committing a file 
@@ -96,7 +96,7 @@ More on commits refer to [About commits](https://docs.github.com/en/pull-request
 3. In the enetr file pane give a brief description of yourself as your profile (like two sentences)
 4. Click `commit changes` in the upper right corner, you can then enter a brief description about your commit and `click Commit Changes`
 
-   **Great work that was your first commit** ✨ 
+   **First commit, CONGRATULATIONS** ✨ 
 
 #### Open a pull request
 
@@ -115,7 +115,7 @@ To create a pull request you will:-
 6. Enter the name and description of your pull request
 7. Click create pull request
 
-**That was it!!!**  🎊
+**DONE!!!**  🎊
 
 #### Forking
 
@@ -129,7 +129,7 @@ In this tutorial we will use the following github repo [octate/Spoon-Knife](http
    [Detailed instructions on Forkinh](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
    
 
-**Well done you have completed the intro** 🎊🎊
+**SBB611 INTRODUCTION TO GIT HUB DONE** 🎊🎊
 
 
 # Markdown Syntax
