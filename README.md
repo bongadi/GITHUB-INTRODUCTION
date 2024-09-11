@@ -3,7 +3,7 @@
 # GitHub
 
 This is a popular website for hosting and sharing  _Git_ repositories remotely.
-GitHub is used with various developers as means to colaborate remotely. In this course you will learn the basic of GitHub.
+GitHub is used with various developers as means to collaborate remotely. Briefly you will learn the basics of GitHub.
 
 **Objectives**
 1. Inroduction to Repositories, branches , Pull requests and Forking
