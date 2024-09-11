@@ -1,0 +1,9 @@
+# Git and Github
+
+<img src="https://images.datacamp.com/image/upload/v1651047046/image8_0e61d0dad8.png" width="1200" height="300">
+
+
+If you’ve never used git or github before, there are a bunch of things that you need to do. It’s [very well explained on github](https://help.github.com/articles/set-up-git), but repeated here for completeness.
+- Get a github account
+- Download and install git. For Linux users, this comes already preinstalled. To check, simply type ```git --version``` on your terminal
+  - To install git on ubuntu, `$ sudo apt-get update` followed by `$ sudo apt-get install git`
