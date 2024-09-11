@@ -7,7 +7,7 @@ GitHub is used with various developers as means to collaborate remotely.
 Briefly you will learn the basics of GitHub.
 
 **Objectives**
-1. Inroduction to Repositories, branches , Pull requests and Forking
+1. Introduction to Repositories, branches , Pull requests and Forking
 2. You will make a short Markdown file (profile.md) that you can use as your Profile ReadMe.
 
 
