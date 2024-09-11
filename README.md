@@ -17,18 +17,33 @@ Create a GitHub account [Join GitHub](https://github.com/join)
 A GitHub account is made up of several key parts that help users manage and collaborate on projects. Here are the main parts:
 
 **1. Profile**
+
 **Username:** This is your unique identity on GitHub.
+
 **Bio:** A short description about yourself, your interests, or your expertise.
+
 **Profile Picture:** An avatar or photo to represent yourself on GitHub.
+
 **Pinned Repositories:** You can "pin" repositories on your profile to highlight the most important or relevant projects you're working on.
-Contributions Graph: Shows your activity over time, such as commits, pull requests, and issues, giving an overview of how active you are on GitHub.
+
+**Contributions Graph:** Shows your activity over time, such as commits, pull requests, and issues, giving an overview of how active you are on GitHub.
+
 **2. Repositories (Repos)**
+
 **Repository Name:** Each project has its own repository with a unique name.
+
 **README.md:** This is a markdown file that provides an overview of the project, instructions, or any necessary documentation.
+
 **Issues:** A system for tracking bugs, feature requests, or tasks related to the repository.
+
 **Pull Requests:** Contributions made by users, suggesting changes to the code or files within the repository.
+
 **Branches:** Different versions of a project, allowing multiple development streams (e.g., main, dev, or feature-specific branches).
+
+**Releases:** Versions of the project that are marked as stable and can be downloaded.Releases: Versions of the project that are marked as stable and can be downloaded.
+
 **Commits:** Individual changes made to the code or documentation, with a message explaining what was altered.
+
 **Releases:** Versions of the project that are marked as stable and can be downloaded.
  
 ## Repositories 
