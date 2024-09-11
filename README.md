@@ -47,9 +47,13 @@ A GitHub account is made up of several key parts that help users manage and coll
 **Releases:** Versions of the project that are marked as stable and can be downloaded.
  
 ## Repositories 
+A repository is a storage space where your project’s code, files, and history are stored.
 
-A repository/repo contains all your project's files and each file's revision history. You can manage your project within its repo. Repositories can be personally owned or shared 
-by different people in an organisation (collaboration). More on repositories can be found here [More on Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
+It tracks all changes made to the files over time, allowing developers to collaborate, review the history, and restore previous versions.
+
+You can think of it as the main project folder with all your files and the version history.
+
+Repositories can be local (on your computer) or remote (on a platform like GitHub, GitLab, etc.).. More on repositories can be found here [More on Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
 
  * To create a new repo you can simply click on ``NEW`` on the github window.
  *  Name your Repo
@@ -64,10 +68,13 @@ by different people in an organisation (collaboration). More on repositories can
 
 
    ### GitHub Branches
-
-   A branch is parallel versions of your repo, by default you repo has one branch ``main`` and just like the name suggests this is your main/definitive/default branch.
-   It is advisible to create additional copies of your `main` branch and make changes of it without actually affecting the core/default/main branch and ultimately your main
-   project. (In other words in the case where different people are collaborating on one project branches ensures that everyones work is safe before any more changes are done on the main branch/projcet.)
+   A branch is a version of the repository that diverges from the main working project.
+   
+   It allows you to work on features, bug fixes, or changes independently without affecting the main branch (often called master or main).
+   
+   Once your work on a branch is done, you can merge it back into the main branch.
+   
+   Example: You may create a new branch called feature-login to work on the login feature without disturbing the stable code on the main branch.
 
    By default the `main` branch is the base branch for new `pull requests` and code commits.
 
@@ -98,9 +105,14 @@ More on commits refer to [About commits](https://docs.github.com/en/pull-request
 
    **First commit, CONGRATULATIONS** ✨ 
 
-#### Open a pull request
+#### Pull Request (PR):
+A pull request is a way to propose changes that you've made in one branch be merged into another branch (often the main branch).
 
-Collaboration happens on a pull request. The pull request shows the changes in your branch to other people and allows people to accept, reject or suggest additional changes to your branch. This pull request is going to keep changes you made on your branch and propose them to the `main` branch. For more on pull requests kinldy refer to 
+It allows others to review your code before integrating it into the main repository.
+
+PRs are commonly used in collaborative environments, where teams can discuss and provide feedback on changes before finalizing them.
+
+Once a PR is approved and merged, the changes become part of the target branch.. For more on pull requests kinldy refer to 
 [Info on Pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
 ![my-firstcommit](https://github.com/Natasha-Adongo/Bioinformatics-Training/assets/109069282/bcb3a422-10d3-4bdb-b10b-46ba08012148)
@@ -119,8 +131,13 @@ To create a pull request you will:-
 
 #### Forking
 
-A fork is a new repo that shares code and visibility with the original 'upstream' repo. For example you can fork a repo to propose changes to the main repo and submit a pull request when done. More on forks can be found here [Forking info](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks)
-In this tutorial we will use the following github repo [octate/Spoon-Knife](https://github.com/octocat/Spoon-Knife)
+Forking is creating a copy of someone else’s repository under your account.
+
+This allows you to make changes to the project without affecting the original repository
+
+Forking is typically used when you want to contribute to someone else's project. After making changes in your forked repository, you can submit a pull request to the original project for review.
+
+Example: You might fork an open-source project to add a new feature or fix a bug, then send a pull request back to the original repo. More on forks can be found here [Forking info](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks)
 
 1. Navigate to the github page listed above and click on `Fork`
 2. Selcect the owner for the forked repo
