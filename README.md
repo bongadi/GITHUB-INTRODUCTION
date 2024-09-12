@@ -148,6 +148,7 @@ Example: You might fork an open-source project to add a new feature or fix a bug
    [Detailed instructions on Forkinh](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
    
 **How They Work Together:**
+
 You fork a repository to get a copy of it.
 
 You create a branch to work on a specific feature.
