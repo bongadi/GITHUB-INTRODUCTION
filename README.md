@@ -46,7 +46,7 @@ Here are the main parts:
 
 **Commits:** Individual changes made to the code or documentation, with a message explaining what was altered.
 
-**Releases:** Versions of the project that are marked as stable and can be downloaded.
+
  
 ## Repositories 
 A repository is a storage space where your project’s code, files, and history are stored.
