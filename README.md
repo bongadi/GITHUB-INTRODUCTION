@@ -149,7 +149,9 @@ Example: You might fork an open-source project to add a new feature or fix a bug
    
 **How They Work Together:**
 You fork a repository to get a copy of it.
+
 You create a branch to work on a specific feature.
+
 Once the feature is ready, you submit a pull request to merge it back into the original repository’s branch.
 
 **SBB611 INTRODUCTION TO GIT HUB DONE** 🎊🎊
